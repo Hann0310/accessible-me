@@ -69,3 +69,9 @@ form button {
 .site-footer {
   padding: 2rem 0;
 }
+
+/* MY CSS */
+
+.current a {
+  background: white;
+}
